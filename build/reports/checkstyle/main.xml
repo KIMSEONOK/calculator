@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.12">
+<file name="/home/student/Projects/calculator/src/main/java/com/kimso/calculator/Calculator.java">
+</file>
+<file name="/home/student/Projects/calculator/src/main/java/com/kimso/calculator/CalculatorApplication.java">
+</file>
+<file name="/home/student/Projects/calculator/src/main/java/com/kimso/calculator/CalculatorController.java">
+</file>
+<file name="/home/student/Projects/calculator/src/main/java/com/test.java">
+</file>
+</checkstyle>
